@@ -1,1 +1,3 @@
-prinf("wassup homies")
+Sub PrintHelloWorld()
+    Debug.Print "wassup homies!"
+End Sub
