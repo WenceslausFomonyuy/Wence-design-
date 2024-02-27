@@ -1,3 +1,1 @@
-Sub PrintHelloWorld()
-    Debug.Print "wassup homies!"
-End Sub
+printf("hello world")
